@@ -4,7 +4,7 @@
 
 pkgbase=kitty-git
 pkgname=kitty-git
-pkgver=99999.r12013.g13c09c831
+pkgver=99999.r12012
 pkgrel=1
 epoch=1
 pkgdesc="Modern, hackable, featureful, OpenGL based terminal emulator"
