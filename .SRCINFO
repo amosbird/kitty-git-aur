@@ -40,6 +40,6 @@ pkgbase = kitty-git
 
 pkgname = kitty-git
 	optdepends = imagemagick: viewing images with icat
-	provides = kitty
+	provides = kitty-git
 	conflicts = kitty
 	conflicts = kitty-terminfo

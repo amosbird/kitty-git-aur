@@ -31,7 +31,7 @@ build() {
 
 package_kitty-git() {
   optdepends=('imagemagick: viewing images with icat')
-  provides=(kitty)
+  provides=(kitty-git)
   conflicts=(kitty kitty-terminfo)
 
   cd "${srcdir}/${pkgname%-git}"
